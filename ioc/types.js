@@ -3,4 +3,6 @@ export const TYPES = {
 
   UserService: 'UserService',
   LogService: 'LogService',
+
+  LogConfig: 'LogConfig'
 };
